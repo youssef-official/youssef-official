@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./profile-hero.svg" width="100%" alt="Youssef Elsayed — Software Engineer" />
+  <img src="./photo.png" width="100%" alt="Youssef Elsayed — Software Engineer" />
 
   <br />
 
